@@ -1,0 +1,10 @@
+SQLAlchemy==1.2.12
+pandas==0.23.4
+numpy==1.15.2
+pip==9.0.1
+progressbar==2.5
+python-dateutil==2.7.3
+pytz==2018.5
+setuptools==28.8.0
+six==1.11.0
+
