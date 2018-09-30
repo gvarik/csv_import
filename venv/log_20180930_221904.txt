@@ -1,0 +1,5 @@
+The script started at 2018-09-30 22:19:04.151618.
+The script ended at 2018-09-30 22:19:51.422036.
+The running time was 47 seconds.
+The number of added records 2025347.
+
